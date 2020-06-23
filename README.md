@@ -3,6 +3,7 @@
 # About
 With the Minishell projects, we discovered the “behind the scenes” of a shell. More specifically, your explored the process’ synchronisation creation with functions such asfork and wait. We also discovered inter-process communication, using pipes, as well asredirections and line edition, using termcaps.
 With the 42sh project, we will go even further by adding functionailities such as globbing management, subshells and inhibitor.
+
 ![](42sh_screen.gif)
 ## Installation
 1. Download/Clone this repo
